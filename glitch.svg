@@ -4,7 +4,7 @@
 <!-- wpisz swój hex zamiast #ff0000 -->
 <style>
 :root{
-  --color: #348F2E;
+  --color: #7dc7af;
 }
 
 @keyframes glitch {
