@@ -1,1 +1,1 @@
-![check](https://cdn.discordapp.com/attachments/1444380936031703222/1465360625466216511/49651a6f28cb4ac93709fcb8416a38f71-ezgif.com-gif-maker.gif?ex=6978d2ee&is=6977816e&hm=35d80cf98b1d03888774a023e6b516e3ae6cc12714f314afa0fb21425b416a04&) 
+![check](https://i.pinimg.com/originals/49/65/1a/49651a6f28cb4ac93709fcb8416a38f7.gif) 
