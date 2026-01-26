@@ -1,52 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="55">
+  <style>
+    :root{ --color: #7dc7af; }
+    @keyframes glitch {
+      0% { transform: translate(0,0); }
+      20% { transform: translate(-1px,1px); }
+      40% { transform: translate(1px,-1px); }
+      60% { transform: translate(-1px,0); }
+      80% { transform: translate(1px,1px); }
+      100% { transform: translate(0,0); }
+    }
+    .glitch { animation: glitch 0.18s infinite; }
+  </style>
 
-<style>
-:root {
-  --color: #7dc7af; /* kolor główny */
-}
+  <!-- cień -->
+  <text x="50%" y="50%" text-anchor="middle" font-size="20" font-family="monospace" fill="#330000">
+    ᡕᠵデᡁ᠊╾━ "ʙᴇ ᴀ ɢᴏᴏᴅ ɢɪʀʟ ᴀɴᴅ ꜱᴛᴀʏ ᴅᴇᴀᴅ ᴛʜɪꜱ ᴛɪᴍᴇ." ᝰ.ᐟ
+  </text>
 
-@keyframes glitch {
-  0% { transform: translate(0,0); }
-  20% { transform: translate(-1px,1px); }
-  40% { transform: translate(1px,-1px); }
-  60% { transform: translate(-1px,0); }
-  80% { transform: translate(1px,1px); }
-  100% { transform: translate(0,0); }
-}
-
-.glitch {
-  animation: glitch 0.18s infinite;
-}
-
-@keyframes typing {
-  from { stroke-dashoffset: 1000; }
-  to { stroke-dashoffset: 0; }
-}
-
-.text-path {
-  fill: var(--color);
-  stroke: var(--color);
-  stroke-width: 0.5px;
-  stroke-dasharray: 1000;
-  stroke-dashoffset: 1000;
-  animation: typing 5s steps(120) forwards; /* czas trwania i ilość kroków */
-}
-</style>
-
-<!-- cień -->
-<text x="50%" y="50%" text-anchor="middle"
-      font-size="20"
-      font-family="monospace"
-      fill="#330000">
-ᡕᠵデᡁ᠊╾━ "ʙᴇ ᴀ ɢᴏᴏᴅ ɢɪʀʟ ᴀɴᴅ ꜱᴛᴀʏ ᴅᴇᴀᴅ ᴛʜɪꜱ ᴛɪᴍᴇ." ᝰ.ᐟ
-</text>
-
-<!-- główny tekst z efektem typing + glitch -->
-<text x="50%" y="50%" text-anchor="middle"
-      font-size="20"
-      font-family="monospace"
-      class="glitch text-path">
-ᡕᠵデᡁ᠊╾━ "ʙᴇ ᴀ ɢᴏᴏᴅ ɢɪʀʟ ᴀɴᴅ ꜱᴛᴀʏ ᴅᴇᴀᴅ ᴛʜɪꜱ ᴛɪᴍᴇ." ᝰ.ᐟ
-</text>
-
+  <!-- główny tekst z typing -->
+  <text x="50%" y="50%" text-anchor="middle" font-size="20" font-family="monospace" fill="var(--color)" class="glitch">
+    <tspan id="typing" fill="var(--color)">
+      ᡕᠵデᡁ᠊╾━ "ʙᴇ ᴀ ɢᴏᴏᴅ ɢɪʀʟ ᴀɴᴅ ꜱᴛᴀʏ ᴅᴇᴀᴅ ᴛʜɪꜱ ᴛɪᴍᴇ." ᝰ.ᐟ
+      <animate attributeName="textLength" from="0" to="100%" dur="5s" fill="freeze" />
+    </tspan>
+  </text>
 </svg>
+
