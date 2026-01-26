@@ -1,30 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="80">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="55">
 
+<!-- 🔴 TUTAJ ZMIENIASZ KOLOR -->
+<!-- wpisz swój hex zamiast #ff0000 -->
 <style>
+:root{
+  --color: #1A8F3A;
+}
+
 @keyframes glitch {
   0% { transform: translate(0,0); }
-  20% { transform: translate(-2px,1px); }
-  40% { transform: translate(2px,-1px); }
-  60% { transform: translate(-1px,2px); }
-  80% { transform: translate(1px,-2px); }
+  20% { transform: translate(-1px,1px); }
+  40% { transform: translate(1px,-1px); }
+  60% { transform: translate(-1px,0); }
+  80% { transform: translate(1px,1px); }
   100% { transform: translate(0,0); }
 }
+
 .glitch {
-  animation: glitch 0.15s infinite;
+  animation: glitch 0.18s infinite;
 }
 </style>
 
-<!-- cień czerwony -->
+<!-- cień -->
 <text x="50%" y="50%" text-anchor="middle"
-      font-size="28" font-family="monospace"
-      fill="#550000">
+      font-size="20"
+      font-family="monospace"
+      fill="#330000">
 ᡕᠵデᡁ᠊╾━ "ʙᴇ ᴀ ɢᴏᴏᴅ ɢɪʀʟ ᴀɴᴅ ꜱᴛᴀʏ ᴅᴇᴀᴅ ᴛʜɪꜱ ᴛɪᴍᴇ." ᝰ.ᐟ
 </text>
 
-<!-- główny tekst glitch -->
+<!-- główny tekst -->
 <text x="50%" y="50%" text-anchor="middle"
-      font-size="28" font-family="monospace"
-      fill="#ff0000"
+      font-size="20"
+      font-family="monospace"
+      fill="var(--color)"
       class="glitch">
 ᡕᠵデᡁ᠊╾━ "ʙᴇ ᴀ ɢᴏᴏᴅ ɢɪʀʟ ᴀɴᴅ ꜱᴛᴀʏ ᴅᴇᴀᴅ ᴛʜɪꜱ ᴛɪᴍᴇ." ᝰ.ᐟ
 </text>
