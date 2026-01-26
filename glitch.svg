@@ -1,10 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="55">
 
-<!-- 🔴 TUTAJ ZMIENIASZ KOLOR -->
-<!-- wpisz swój hex zamiast #ff0000 -->
 <style>
-:root{
-  --color: #7dc7af;
+:root {
+  --color: #7dc7af; /* kolor główny */
 }
 
 @keyframes glitch {
@@ -19,6 +17,20 @@
 .glitch {
   animation: glitch 0.18s infinite;
 }
+
+@keyframes typing {
+  from { stroke-dashoffset: 1000; }
+  to { stroke-dashoffset: 0; }
+}
+
+.text-path {
+  fill: var(--color);
+  stroke: var(--color);
+  stroke-width: 0.5px;
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: typing 5s steps(120) forwards; /* czas trwania i ilość kroków */
+}
 </style>
 
 <!-- cień -->
@@ -29,12 +41,11 @@
 ᡕᠵデᡁ᠊╾━ "ʙᴇ ᴀ ɢᴏᴏᴅ ɢɪʀʟ ᴀɴᴅ ꜱᴛᴀʏ ᴅᴇᴀᴅ ᴛʜɪꜱ ᴛɪᴍᴇ." ᝰ.ᐟ
 </text>
 
-<!-- główny tekst -->
+<!-- główny tekst z efektem typing + glitch -->
 <text x="50%" y="50%" text-anchor="middle"
       font-size="20"
       font-family="monospace"
-      fill="var(--color)"
-      class="glitch">
+      class="glitch text-path">
 ᡕᠵデᡁ᠊╾━ "ʙᴇ ᴀ ɢᴏᴏᴅ ɢɪʀʟ ᴀɴᴅ ꜱᴛᴀʏ ᴅᴇᴀᴅ ᴛʜɪꜱ ᴛɪᴍᴇ." ᝰ.ᐟ
 </text>
 
