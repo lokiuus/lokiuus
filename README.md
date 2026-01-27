@@ -21,7 +21,9 @@
 
 
 
-<hr style="height:1px;border:none;background:#333;">
+<hr style="height:1px;border:none;background:#333;width:60%;margin:auto;">
+
+
 
 
 
