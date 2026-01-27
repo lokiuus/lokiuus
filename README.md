@@ -6,18 +6,18 @@
 
 
 
-
-
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/6b/7e/7f/6b7e7fcfbe5b7a221ee59a1714454178.gif" width="1000" >
-</p>
-
-
-
 <p align="center">
   <img src="glitch.svg" width="700">
 </p>
+
+
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1444380936031703222/1465810974651977933/6c7c3c3c-9dfe-44de-b9dd-062fbd2de584_1.png?ex=697a7659&is=697924d9&hm=711bf67da79667df19a0d04407b37a09c05ddc3fd4abcacf269b59b47f519b5b&" width="1000" >
+</p>
+
+
+
 
 
  
