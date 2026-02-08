@@ -17,7 +17,7 @@
 
 
 𓇼𓐄 ˚◞♡
-[rentry.co](https://rentry.co) ꒰꒰
+[carrd.co](https://fosoviaaa.carrd.co) ꒰꒰
 [atabook.org](https://lokiuus.atabook.org)  ⸝⸝
 [straw.page](https://weskerpuppy.straw.page) 𓂃 ࣪ ִֶָ☾.
 
