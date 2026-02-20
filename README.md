@@ -19,7 +19,7 @@
 𓇼𓐄 ˚◞♡
 [carrd.co](https://fosoviaaa.carrd.co) ꒰꒰
 [atabook.org](https://lokiuus.atabook.org)  ⸝⸝
-[straw.page](https://weskerpuppy.straw.page) 𓂃 ࣪ ִֶָ☾.
+[straw.page](https://lokiuus.straw.page) 𓂃 ࣪ ִֶָ☾.
 
 
 
