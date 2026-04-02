@@ -29,6 +29,6 @@
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/gcxFkz8v/obraz-2026-04-02-143756201.png" width="1000" "/>
+  <img src="https://i.postimg.cc/gcxFkz8v/obraz-2026-04-02-143756201.png" width="500" "/>
 </p>
 
