@@ -20,11 +20,6 @@
 </p>
 
 
-𓇼𓐄 ˚◞♡
-[carrd.co](https://fosoviaaa.carrd.co) ꒰꒰
-[atabook.org](https://lokiuus.atabook.org)  ⸝⸝
-[straw.page](https://lokiuus.straw.page) 𓂃 ࣪ ִֶָ☾.
-
 
 
 
@@ -32,3 +27,8 @@
   <img src="https://i.postimg.cc/brgyQ8Hm/obraz-2026-04-02-155624856.png" width="700" "/>
 </p>
 
+
+𓇼𓐄 ˚◞♡
+[carrd.co](https://fosoviaaa.carrd.co) ꒰꒰
+[atabook.org](https://lokiuus.atabook.org)  ⸝⸝
+[straw.page](https://lokiuus.straw.page) 𓂃 ࣪ ִֶָ☾.
