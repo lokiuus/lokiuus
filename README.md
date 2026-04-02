@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/C1Cvd8v2/obraz-2026-04-02-142551129.png" width="1400" height="400"/>
+  <img src="https://i.postimg.cc/C1Cvd8v2/obraz-2026-04-02-142551129.png" width="1200" height="300"/>
 </p>
 
 <div align="center">
