@@ -12,7 +12,8 @@
 
 <div align="center">
  
-  ![](https://komarev.com/ghpvc/?username=lokiuus&color=850000&style=plastic)
+  ![](https://komarev.com/ghpvc/?username=lokiuus&label=rotting+soul&color=850000&style=plastic)
+
 
 <p align="center">
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢<br>
