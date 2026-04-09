@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/brgyQ8Hm/obraz-2026-04-02-155624856.png" width="700" "/>
+  <img src="https://i.postimg.cc/y8bGbCXb/HOPEUDIEPART2.png" width="700" "/>
 </p>
 
 
