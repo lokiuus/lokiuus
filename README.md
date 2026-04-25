@@ -12,7 +12,7 @@
 
 <div align="center">
  
-  ![](https://komarev.com/ghpvc/?username=lokiuus&label=rotting+soul&color=850000&style=plastic)
+  ![](https://komarev.com/ghpvc/?username=lokiuus&label=rotting+soul&color=967A7A&style=plastic)
 
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/y8bGbCXb/HOPEUDIEPART2.png" width="700" "/>
+  <img src="https://i.postimg.cc/VkmQntyD/Untitled6-20260425182807-fliter-sepia-channel-red-mode-lighten.png" width="700" "/>
 </p>
 
 
