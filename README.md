@@ -1,13 +1,5 @@
 
 
-<p align="center">
-  <img src="" width="1000" height="200"/>
-</p>
-
-
-<div align="center"> 
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mrs+Saint+Delafield&size=61&pause=1000&color=850000&center=true&repeat=false&width=537&height=109&lines=There%60ll+be+no+pain+anymore)](https://git.io/typing-svg)
 
 
 <div align="center">
