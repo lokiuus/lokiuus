@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/C1Cvd8v2/obraz-2026-04-02-142551129.png" width="1000" height="200"/>
+  <img src="" width="1000" height="200"/>
 </p>
 
 
@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/VkmQntyD/Untitled6-20260425182807-fliter-sepia-channel-red-mode-lighten.png" width="700" "/>
+  <img src="https://gcdnb.pbrd.co/images/AlFOdx5b1PJU.png" width="700"/>
 </p>
 
 
