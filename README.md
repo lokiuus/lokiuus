@@ -4,7 +4,7 @@
 
 <div align="center">
  
-  ![](https://komarev.com/ghpvc/?username=lokiuus&label=rotting+soul&color=967A7A&style=plastic)
+  ![](https://komarev.com/ghpvc/?username=lokiuus&label=rotting+soul&color=6d8995&style=plastic)
 
 
 <p align="center">
@@ -17,11 +17,12 @@
 
 
 <p align="center">
-  <img src="https://gcdnb.pbrd.co/images/AlFOdx5b1PJU.png" width="700"/>
+
+
+https://github.com/user-attachments/assets/75ed0064-12a9-47fe-a633-ef27f8078f0a
+
+
 </p>
 
 
-𓇼𓐄 ˚◞♡
-[carrd.co](https://fosoviaaa.carrd.co) ꒰꒰
-[atabook.org](https://lokiuus.atabook.org)  ⸝⸝
-[straw.page](https://lokii.straw.page) 𓂃 ࣪ ִֶָ☾.
+
