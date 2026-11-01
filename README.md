@@ -13,6 +13,15 @@
 
 <p align="center">
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢<br>
+  <div align="center">
+
+<b> please interact only if <13 </b> <img 
+src="https://cdn3.emoji.gg/emojis/26515-gothic-cross.gif"
+width="25"
+/> <code>SINGLE</code> <br>
+𝔩𝔬𝔨𝔦 / 𝔪𝔦𝔫𝔬𝔯 / 𝔖𝔦𝔩𝔢𝔫𝔱 𝔥𝔦𝔩𝔩 𝔯𝔢𝔡 𝔡𝔢𝔞𝔡 𝔯𝔢𝔡𝔢𝔭𝔱𝔦𝔬𝔫 , 𝔯𝔢𝔰𝔦𝔡𝔢𝔫𝔱 𝔢𝔳𝔦𝔩 , 𝔤𝔬𝔬𝔡 𝔬𝔪𝔢𝔫𝔰, 𝔥𝔢𝔩𝔩𝔲𝔳𝔞 𝔟𝔬𝔰𝔰
+
+<br>
 ⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣
 </p>
 
