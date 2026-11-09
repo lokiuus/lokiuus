@@ -15,7 +15,7 @@
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢<br>
   <div align="center">
 
-<b> please interact only if <13 </b> <img 
+<b> please interact only if >13 </b> <img 
 src="https://cdn3.emoji.gg/emojis/26515-gothic-cross.gif"
 width="25"
 /> <code>SINGLE</code> <br>
